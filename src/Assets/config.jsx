@@ -1,7 +1,7 @@
 
 const UserPoolData = {
-    userPoolId : "us-east-1_UeY1GcPF8",
-    clientId:"2o03j7krom48d0tivudkihj435"
+    userPoolId : "us-east-1_ihVD3qY1v",
+    clientId:"190718fdmcg9dqi4455ug5929j"
 }
 
 export default UserPoolData;
